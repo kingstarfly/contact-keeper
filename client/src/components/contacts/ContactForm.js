@@ -13,7 +13,7 @@ const ContactForm = () => {
       setContact({
         name: "",
         email: "",
-        phone: "",
+        phone: "",  
         type: "personal",
       });
     }

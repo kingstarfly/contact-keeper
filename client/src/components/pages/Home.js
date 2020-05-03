@@ -20,7 +20,6 @@ const Home = () => {
         <ContactFilter />
         <Contacts />
       </div>
-      <h1>Home</h1>
     </div>
   );
 };

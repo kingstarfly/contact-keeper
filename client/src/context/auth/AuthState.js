@@ -14,7 +14,6 @@ import {
   LOGOUT,
   CLEAR_ERRORS,
 } from "../types";
-import Axios from "axios";
 
 const AuthState = (props) => {
   const initialState = {
